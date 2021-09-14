@@ -1,6 +1,6 @@
-# Title
+# Autocorrect Program
 
-Simple (or clever and funny?) description
+WIP autocorrect program that suggests words if user input isn't a word found in dictionary.
 
 ## Table of Contents
 
