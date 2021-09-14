@@ -12,7 +12,7 @@ WIP autocorrect program that suggests words if user input isn't a word found in 
 
 ## Background
 
-This is why this application exists.
+For a Code2College project.
 
 ## Install
 
@@ -20,6 +20,6 @@ These are the steps to setup your local environment to run this application.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Download the files and put it into an IDE like repl.it
 
 ### Any optional sections
